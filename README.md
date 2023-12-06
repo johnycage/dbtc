@@ -4,4 +4,4 @@ DBTC chart can be used to keep track on your 'things' you plan to perform daily.
 For more information on how to use it and courtesy notes, please refer to the [original article](https://ttbid.amrute.me/?page_id=158) 
 Also added Robin Sharma's Weekly Design System template. 
 
-[![License](https://img.shields.io/badge/License_CC-BY-3.0-greenblue.svg)](https://creativecommons.org/licenses/by/3.0/deed.en_US)
+[![License](https://img.shields.io/badge/License_CC--BY--3.0-green.svg)](https://creativecommons.org/licenses/by/3.0/deed.en_US)
