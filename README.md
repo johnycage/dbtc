@@ -6,4 +6,4 @@ For more information on how to use it and courtesy notes, please refer to the [o
 Robin Sharma's Weekly Design System template. &copy; reserves to [Robin Sharma](https://robinsharma.com/)
 
 For other materials in the repository: 
-[![License](https://img.shields.io/badge/License-CC--BY--3.0-green.svg)](https://creativecommons.org/licenses/by/3.0/deed.en_US)
+[![License](https://img.shields.io/badge/License-CC--BY--3.0-green.svg)](https://creativecommons.org/licenses/by/3.0/deed.en_US "Creative Commons Attribution 3.0")
